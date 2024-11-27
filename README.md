@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Prasanth Suresh, and Welcome to my GitHub Repo!
+I am Prasanth Suresh. Welcome to my GitHub Repo!
 
 <!--
 **prasuchit/prasuchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
